@@ -31,6 +31,7 @@ I'm Misiker Genene (Rio),A passionate future Full-Stack Developer based in Ethio
 - HTML5
 - CSS3
 - JavaScript (Fundamentals)
+- Python Basics
 - Java (object oriented programming) 
 - Git & GitHub (Version Control)
 - C++ (Basic to Intermediate)
