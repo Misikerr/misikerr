@@ -63,7 +63,7 @@ I'm Misiker Genene (Rio),A passionate future Full-Stack Developer based in Ethio
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Rio's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misikerr&show_icons=true&theme=tokyonight" alt="Rio's GitHub stats" />
 </p>
 
 ## 📫 How to Reach Me
