@@ -64,8 +64,8 @@ A passionate future Full-Stack Developer based in Ethiopia 🇪🇹.
 </p>
 
 ## 📫 How to Reach Me
-- GitHub: [your-github-username](https://github.com/misikerr)
-- Telegram: [@yourTelegramUsername](@Im12_10)
+- GitHub: [@Misikerr](https://github.com/Misikerr)
+- Telegram: [@Im_1210](https://t.me/Im_1210)
 - Email: misikergenene622@gmail.com
 
 ---
