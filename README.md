@@ -15,44 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate future Full-Stack Developer and Cybersecurity enthusiast based in Ethiopia 🇪🇹.
+A passionate future Full-Stack Developer based in Ethiopia 🇪🇹.
 
 ## 💻 What I'm Working On
 - 🚀 Learning Full-Stack Web Development (HTML, CSS, JavaScript)
 - 🎯 Studying Software Engineering at Arbaminch University
 - 📚 Completing CS50x and preparing for Microsoft Software Developer Certificate
-- 🔥 Exploring Trading (Forex and Crypto) as a side hustle
-- 🛡️ Starting my journey into Cybersecurity and Ethical Hacking
-
+- 
 ## 🧠 Skills I'm Learning
+- Advanced JavaScript (DOM, Events, Fetch API)
+- React basics
+- Backend Development (Node.js Basics coming soon)
+
+## 🛠️ Skills I Already Have
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-- Git & GitHub
-- Python
-- C++
+- JavaScript (Fundamentals)
+- Git & GitHub (Version Control)
+- C++ (Basic to Intermediate)
 - Basic C programming
+- Problem Solving (Logical thinking and algorithms)
 
 ## 🧰 Languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ## 🌟 Projects (Coming Soon!)
 - Personal Portfolio Website
-- JavaScript Web Apps (To-Do App, Weather App, Text-to-Speech App)
-- Simple C++ Console Applications (Car System, Snake Game, Ordering System)
+- JavaScript Web Apps 
+- Simple C++ Console Applications 
 
 ## 🛠️ Tools & Technologies
 - VS Code / Cursor IDE
 - Git & GitHub
-- TryHackMe (for cybersecurity learning)
 - Notion & Google Calendar (for time management)
 
 ## 📈 GitHub Stats
@@ -61,9 +64,9 @@ A passionate future Full-Stack Developer and Cybersecurity enthusiast based in E
 </p>
 
 ## 📫 How to Reach Me
-- GitHub: [your-github-username](https://github.com/your-github-username)
-- Telegram: [@yourTelegramUsername](https://t.me/yourTelegramUsername)
-- Email: your-email@example.com
+- GitHub: [your-github-username](https://github.com/misikerr)
+- Telegram: [@yourTelegramUsername](@Im12_10)
+- Email: misikergenene622@gmail.com
 
 ---
 Thanks for visiting! 🌟 Feel free to ⭐ my repositories if you like my work!  
