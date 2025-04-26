@@ -36,6 +36,7 @@ I'm Misiker Genene (Rio),A passionate future Full-Stack Developer based in Ethio
 - Git & GitHub (Version Control)
 - C++ (Basic to Intermediate)
 - Basic C programming
+- Good Prompt Engineering (Writing clear and effective prompts for AI)
 - Problem Solving (Logical thinking and algorithms)
 
 ## 🧰 Languages and Tools:
