@@ -8,7 +8,7 @@
         <p>A passionate future <strong>Full-Stack Developer</strong> based in <strong>Ethiopia</strong>.</p>
       </td>
       <td>
-        ![Anime Coder](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+        https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
       </td>
     </tr>
   </table>
