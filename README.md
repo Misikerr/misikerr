@@ -2,7 +2,6 @@
    
 
 I'm Misiker Genene (Rio),A passionate future Full-Stack Developer based in Ethiopia <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Demo GIF" />
-<img src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Demo GIF" />
 
 
 ## 💻 What I'm Working On
