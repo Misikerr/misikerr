@@ -1,7 +1,9 @@
 ## Hi there 👋
    
 
-I'm Misiker Genene (Rio),A passionate future Full-Stack Developer based in Ethiopia 🇪🇹.http://camo.githubusercontent.com/fbed447ece2f871f2c73093e07665bab31204083f2fe4c80fedce2a174c41ea6/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f323031393132323631373434323231372e676966
+I'm Misiker Genene (Rio),A passionate future Full-Stack Developer based in Ethiopia <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Demo GIF" />
+<img src="https://img-blog.csdnimg.cn/2019122617442217.gif" alt="Demo GIF" />
+
 
 ## 💻 What I'm Working On
 - 🚀 Learning Full-Stack Web Development 
