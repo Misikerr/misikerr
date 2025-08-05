@@ -8,7 +8,7 @@
         <p>A passionate future <strong>Full-Stack Developer</strong> based in <strong>Ethiopia</strong>.</p>
       </td>
       <td>
-        https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
       </td>
     </tr>
   </table>
