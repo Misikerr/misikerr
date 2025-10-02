@@ -1,19 +1,3 @@
-<h1>Hi there 👋</h1>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h2>I'm Misiker Genene (Rio)</h2>
-        <p>A passionate future <strong>Full-Stack Developer</strong> based in <strong>Ethiopia</strong>.</p>
-      </td>
-      <td>
-        <img src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="250"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 # 👨‍💻 Misiker Genene - Full-Stack MERN Developer
 
