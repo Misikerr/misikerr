@@ -45,11 +45,11 @@
 ```javascript
 // Modern React with Hooks & Context
 const skills = {
-  frameworks: ['React 19', 'Next.js 14', 'Vite'],
+  frameworks: ['React 19', 'Vite'],
   styling: ['TailwindCSS', 'CSS3', 'Responsive Design'],
   stateManagement: ['Context API', 'Redux Toolkit'],
   features: ['PWA', 'Dark/Light Theme', 'Real-time Updates'],
-  tools: ['TypeScript', 'React Router', 'Axios']
+  tools: [ 'React Router', 'Axios']
 }
 ```
 
@@ -70,7 +70,7 @@ const backend = {
 // Data Management & Deployment
 const infrastructure = {
   database: ['MongoDB Atlas', 'Schema Design', 'Aggregation'],
-  cloud: ['Railway', 'Vercel', 'Netlify'],
+  cloud: ['Railway', 'Vercel', 'Netlify' , 'Render'],
   storage: ['Cloudinary CDN', 'File Optimization'],
   deployment: ['CI/CD', 'Environment Management']
 }
@@ -89,7 +89,6 @@ const infrastructure = {
 
 ### **Frontend Ecosystem**
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-3.4+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-5.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -122,50 +121,6 @@ const infrastructure = {
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-## 🌟 Featured Projects
-
-### 🛍️ **የኔ Stickers E-commerce Platform**
-**Full-Stack MERN Application** | [Live Demo](https://yenestickers.store) | [Admin Panel](https://admin.yenestickers.store)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Users-Active-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=for-the-badge" />
-</div>
-
-**🎯 Project Highlights:**
-- 🏪 **Complete E-commerce Solution** with customer frontend and admin dashboard
-- 💳 **Ethiopian Payment Integration** (CBE Mobile Banking, Telebirr)
-- 📱 **Progressive Web App** with offline capabilities
-- 🔐 **Secure Authentication System** with JWT and role-based access
-- 📊 **Real-time Analytics Dashboard** for sales and inventory management
-- ☁️ **Cloud Infrastructure** with MongoDB Atlas and Cloudinary CDN
-
-**🛠️ Technical Implementation:**
-```javascript
-// Advanced React Features
-- React 19 with Concurrent Features
-- Context API for State Management
-- Custom Hooks for Reusability
-- Progressive Web App (PWA)
-- Dark/Light Theme System
-- Responsive Design with TailwindCSS
-
-// Robust Backend Architecture
-- RESTful API with Express.js
-- MongoDB with Mongoose ODM
-- JWT Authentication & Authorization
-- File Upload with Cloudinary
-- Error Handling & Validation
-- Security Best Practices
-
-// Production Deployment
-- Frontend: Vercel/Netlify
-- Backend: Railway/Heroku
-- Database: MongoDB Atlas
-- CDN: Cloudinary
-- CI/CD Pipeline Integration
-```
 
 ### 🔮 **Upcoming Projects**
 - 📱 **React Native Mobile App** - Cross-platform mobile development
@@ -177,12 +132,11 @@ const infrastructure = {
 
 ### 🎓 **Academic Background**
 - **Software Engineering** | Arbaminch University | *2023 - Present*
-- **Computer Science Fundamentals** | CS50x Harvard | *In Progress*
+- **Computer Science Fundamentals** | CS50x Harvard |
 
 ### 🏆 **Professional Certifications** (In Progress)
-- **Microsoft Software Developer Certificate**
-- **MongoDB Developer Certification**
-- **AWS Cloud Practitioner**
+- **CS50x Harvard Certificate**
+- **5 Million Ethiopian coders programming fundamentals Certification**
 
 ### 📖 **Continuous Learning**
 - Advanced React Patterns & Performance Optimization
@@ -205,7 +159,7 @@ const infrastructure = {
 - **File Management**: Cloud storage integration and optimization
 
 ### **☁️ DevOps & Deployment**
-- **Cloud Platforms**: AWS, Railway, Vercel deployment experience
+- **Cloud Platforms**: AWS, Railway, Vercel and Render deployment experience With DNS
 - **Database Management**: MongoDB Atlas configuration and monitoring
 - **CI/CD Pipelines**: Automated testing and deployment workflows
 - **Performance Monitoring**: Application optimization and debugging
@@ -231,21 +185,6 @@ const infrastructure = {
 
 </div>
 
-## 🎯 Professional Goals
-
-### **Short-term (2024)**
-- 🚀 **Scale Current Projects**: Optimize የኔ Stickers for higher traffic
-- 📱 **Mobile Development**: Launch React Native mobile app
-- 🎓 **Complete Certifications**: Microsoft Software Developer Certificate
-- 🤝 **Open Source Contributions**: Contribute to MERN stack projects
-
-### **Long-term (2025+)**
-- 🌟 **Senior Developer Role**: Join a product-focused tech company
-- 🏗️ **Tech Leadership**: Lead development teams and mentor juniors
-- 🚀 **Startup Ventures**: Launch my own SaaS products
-- 🌍 **Global Impact**: Build applications that solve real-world problems
-
-## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
