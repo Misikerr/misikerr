@@ -19,7 +19,7 @@
 ### 🎯 Current Focus
 - 🔥 **Production Applications**: Building and deploying commercial e-commerce platforms
 - 🌟 **MERN Mastery**: Advanced React, Node.js, MongoDB, and Express.js development
-- 📱 **Modern Frontend**: React 19, TypeScript, Next.js, and Progressive Web Apps
+- 📱 **Modern Frontend**: React 19, and Progressive Web Apps
 - ⚡ **Performance Optimization**: Cloud deployment, CDN integration, and scalable architectures
 - 🎓 **Continuous Learning**: CS50x completion, Microsoft Software Developer Certificate prep
 
