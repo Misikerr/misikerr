@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@Misikerr-181717?style=for-the-badge&logo=github)](https://github.com/Misikerr)
 [![Telegram](https://img.shields.io/badge/Telegram-@Im__1210-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Im_1210)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misikergenene622@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misikergenene)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misiker-genene-307bba283/)
 
 </div>
 
