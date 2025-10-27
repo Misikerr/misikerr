@@ -5,7 +5,6 @@
 
 ![Developer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full-Stack%20MERN%20Developer&fontSize=50&fontAlignY=35&desc=Building%20Professional%20Web%20Applications&descAlignY=55&descAlign=center)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Projects-purple?style=for-the-badge)](https://yenestickers.store)
 [![GitHub](https://img.shields.io/badge/GitHub-@Misikerr-181717?style=for-the-badge&logo=github)](https://github.com/Misikerr)
 [![Telegram](https://img.shields.io/badge/Telegram-@Im__1210-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Im_1210)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misikergenene622@gmail.com)
