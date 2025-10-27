@@ -120,23 +120,6 @@ const infrastructure = {
 
 </div>
 
-
-<div align="center">
-
-### 💼 **Professional Networking**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yenestickers.store)
-
-### 💬 **Direct Communication**
-[![Email](https://img.shields.io/badge/Email-misikergenene622@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misikergenene622@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@Im__1210-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Im_1210)
-
-### 💻 **Development Collaboration**
-[![GitHub](https://img.shields.io/badge/GitHub-@Misikerr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Misikerr)
-[![Discord](https://img.shields.io/badge/Discord-Open_to_Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-
-</div>
-
 ---
 
 <div align="center">
