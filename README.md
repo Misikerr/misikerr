@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-@Misikerr-181717?style=for-the-badge&logo=github)](https://github.com/Misikerr)
 [![Telegram](https://img.shields.io/badge/Telegram-@Im__1210-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Im_1210)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misikergenene622@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misikergenene)
 
 </div>
 
@@ -123,7 +124,7 @@ const infrastructure = {
 <div align="center">
 
 ### 💼 **Professional Networking**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misikergenene)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yenestickers.store)
 
 ### 💬 **Direct Communication**
@@ -139,13 +140,6 @@ const infrastructure = {
 ---
 
 <div align="center">
-
-### 🌟 **Ready to Build Amazing Things Together?**
-
-**Let's turn ideas into powerful, scalable web applications that make a real impact!**
-
-[![Hire Me](https://img.shields.io/badge/💼_Available_for_Hire-Let's_Talk-success?style=for-the-badge)](mailto:misikergenene622@gmail.com)
-[![Collaborate](https://img.shields.io/badge/🤝_Open_to_Collaborate-Projects_Welcome-blue?style=for-the-badge)](https://github.com/Misikerr)
 
 **⭐ Don't forget to star my repositories if you find my work valuable!**
 
