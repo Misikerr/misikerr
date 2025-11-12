@@ -28,7 +28,7 @@
 ### 🛍️ **E-commerce Platform Developer** | የኔ Stickers
 *Full-Stack MERN Application | 2024 - Present*
 
-**Live Project**: [yenestickers.store](https://yenestickers.store) | **Admin Panel**: [admin.yenestickers.store](https://admin.yenestickers.store)
+**Live Project**: [yenestickers.store](https://yenestickers.store) 
 
 - 🏗️ **Architected** complete e-commerce ecosystem with customer frontend, admin dashboard, and REST API
 - 💳 **Integrated** Ethiopian payment systems (CBE Mobile Banking, Telebirr) with secure payment processing
