@@ -112,7 +112,7 @@ const infrastructure = {
 <img src="https://github-readme-stats.vercel.app/api?username=misikerr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
 
 ### 💻 **Technology Distribution**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misikerr&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" height="180"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=misikerr&layout=compact&theme=tokyonight&langs_count=10)
 
 ### 🔥 **Consistency Streak**
 <img src="https://streak-stats.demolab.com?user=misikerr&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="200"/>
