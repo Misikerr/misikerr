@@ -39,6 +39,21 @@
 
 **Tech Stack**: React 19, Node.js, Express.js, MongoDB, TailwindCSS, JWT, Cloudinary, PWA
 
+### 🎮 Real-Time Tic Tac Toe
+
+*A real-time multiplayer Tic Tac Toe web application with Telegram authentication, invite-based matchmaking, and a live leaderboard—built for fast, social gameplay among university students.
+
+**Live Demo**: [Real-Time TicTacToe](https://realtime-tictactoe-0f8i.onrender.com)
+
+## 🚀 Features
+
+**⚡ Real-time multiplayer gameplay using WebSockets**
+**🔐 Telegram Login authentication (no passwords, no sign-ups)**
+**🔗 Invite & join matches via unique invitation links**
+**🏆 Live leaderboard displaying player usernames and rankings**
+**🔄 Automatic game state synchronization between players**
+**🌐 Deployed and publicly accessible**
+
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
