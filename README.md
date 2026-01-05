@@ -56,7 +56,7 @@ const infrastructure = {
 ```
 
 
-### **Proffesional portiofolio**
+### **Portfolio**
 [MisikerGenene.me](https://misikergenene.me)
 
 
