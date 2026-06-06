@@ -98,6 +98,20 @@ Built intelligent applications and automation solutions that leverage modern AI 
 
 ---
 
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misikerr&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=100\&section=footer)
+
+
 <div align="center">
 
 ### 🚀 Building Products, Solving Problems, and Turning Ideas into Reality
