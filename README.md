@@ -85,8 +85,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 
 ---
 
----
-
 ## 🛠️ Core Capabilities
 
 * Product Design & Development
@@ -131,8 +129,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 <img src="https://github-profile-trophy.vercel.app/?username=Misikerr&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
-
----
 
 ---
 
