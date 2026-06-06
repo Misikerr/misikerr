@@ -109,9 +109,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=100\&section=footer)
-
-
 <div align="center">
 
 ### 🚀 Building Products, Solving Problems, and Turning Ideas into Reality
