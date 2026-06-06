@@ -2,12 +2,16 @@
 
 <div align="center">
 
-![Developer Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=200\&section=header\&text=Creative%20Software%20Engineer\&fontSize=45\&fontAlignY=35\&desc=Building%20AI-Powered%20Products,%20Mobile%20Apps%20and%20Web%20Experiences\&descAlignY=55\&descAlign=center)
+![Developer Banner](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=220\&section=header\&text=Creative%20Software%20Engineer\&fontSize=50\&fontAlignY=35\&desc=Building%20Products%20•%20AI%20Systems%20•%20Mobile%20Apps%20•%20Web%20Platforms\&descAlignY=58\&animation=fadeIn)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-misikergenene.me-4CAF50?style=for-the-badge\&logo=About.me\&logoColor=white)](https://misikergenene.me)
 [![Telegram](https://img.shields.io/badge/Telegram-@Im__1210-0088cc?style=for-the-badge\&logo=telegram)](https://t.me/Im_1210)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:misikergenene622@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/misiker-genene-307bba283/)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Creative+Software+Engineer;AI+Product+Builder;Full-Stack+Developer;Mobile+Application+Developer;Turning+Ideas+Into+Products" />
+</p>
 
 </div>
 
@@ -15,13 +19,13 @@
 
 ## 🚀 About Me
 
-I'm a **Creative Software Engineer** and **4th Year Software Engineering Student** at Arbaminch University.
+I'm a **Creative Software Engineer** and **4th Year Software Engineering Student** at **Arba Minch University**.
 
-I build digital products that solve real problems. My work spans web applications, mobile apps, AI-powered systems, automation tools, and startup MVPs.
+I build digital products that solve real-world problems. My work spans web applications, mobile apps, AI-powered systems, automation tools, startup MVPs, and enterprise platforms.
 
-By combining software engineering principles, modern development practices, open-source AI, and strong prompt engineering skills, I rapidly transform ideas into functional and scalable products.
+By combining software engineering principles, modern development practices, open-source AI, and advanced prompt engineering, I rapidly transform ideas into functional, scalable, and impactful products.
 
-My focus is not on a specific framework—it's on creating products that deliver value.
+My focus is not on a specific framework—it's on building products that create value.
 
 ---
 
@@ -32,11 +36,11 @@ My focus is not on a specific framework—it's on creating products that deliver
 | Metric                  | Value                                 |
 | ----------------------- | ------------------------------------- |
 | 🚀 Products Built       | 20+                                   |
-| 🌐 Web Applications     | 10+                                   |
+| 🌐 Web Platforms        | 10+                                   |
 | 📱 Mobile Applications  | Multiple Production Projects          |
 | 🤖 AI-Powered Solutions | Growing Portfolio                     |
+| 🏆 Competition Wins     | University Innovation Winner          |
 | 🎓 Education            | 4th Year Software Engineering Student |
-| 💡 Focus                | Product Engineering & Innovation      |
 
 </div>
 
@@ -52,38 +56,49 @@ The first local-based multiplayer pool game platform featuring real-time gamepla
 
 An award-winning healthcare innovation platform that won a university competition and received patent certification for its real-world impact.
 
-### 🛍️ YeneStickers
+### 🏨 Enterprise Solutions
 
-A sticker-focused e-commerce platform that enables customers to browse, customize, and order sticker products online.
+Developed management systems and business platforms for hotels, universities, and organizations to streamline operations and improve efficiency.
 
 ### 🎒 Campus Find
 
-A lost-and-found platform that helps university students quickly reconnect with misplaced belongings.
+A lost-and-found platform helping university students quickly reconnect with misplaced belongings.
 
-### 🏨 Enterprise Solutions
+### 🛍️ YeneStickers
 
-Developed management systems and business platforms for hotels, universities, and other organizations to streamline operations and improve efficiency.
+A sticker-focused e-commerce platform that enables customers to browse, customize, and order sticker products online.
 
 ### 🤖 AI-Powered Products
 
 Built intelligent applications and automation solutions that leverage modern AI technologies to solve real-world problems.
 
+---
+
+## 🎯 Current Focus
+
+* Building AI-powered software products
+* Scaling Ahadu Pool into a production-ready platform
+* Mobile-first application development
+* Startup MVP development
+* Enterprise software solutions
+* AI, automation, and product engineering
+
+---
+
 ## 💡 What I Enjoy Building
 
-* AI-powered products
-* Mobile applications
-* Full-stack platforms
+* AI-Powered Products
+* Mobile Applications
+* Full-Stack Platforms
 * Startup MVPs
-* Automation systems
-* Real-time applications
-* Developer tools
-* Digital experiences
+* Automation Systems
+* Real-Time Applications
+* Developer Tools
+* Digital Experiences
 
 ---
 
 ## 🛠️ Core Capabilities
-
-Instead of focusing on a single technology stack, I specialize in:
 
 * Product Design & Development
 * Full-Stack Engineering
@@ -98,21 +113,59 @@ Instead of focusing on a single technology stack, I specialize in:
 
 ## 🌍 Portfolio
 
-**Website:** https://misikergenene.me
+🔗 **Website:** https://misikergenene.me
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Status
 
-<!-- Keep your existing GitHub stats section here -->
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Misikerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misikerr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Misikerr&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Misikerr&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misikerr&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 💭 Engineering Philosophy
+
+> Great software is not defined by the frameworks used to build it, but by the problems it solves and the value it creates for people.
 
 ---
 
 <div align="center">
 
-### Building products, solving problems, and exploring what's possible with software.
+### 🚀 Building Products, Solving Problems, and Turning Ideas into Reality
 
-⭐ If you find my projects useful, consider starring the repositories.
+⭐ If you find my work useful, consider starring my repositories.
 
 </div>
 
