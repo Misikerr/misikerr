@@ -44,27 +44,29 @@ My focus is not on a specific framework—it's on creating products that deliver
 
 ## 🌟 Featured Projects
 
-### 🎱 Real-Time Multiplayer Pool Game
+### 🎱 Ahadu Pool
 
-A competitive online pool game featuring real-time gameplay, betting mechanics, leaderboards, payments, and multiplayer synchronization.
+The first local-based multiplayer pool game platform featuring real-time gameplay, online matchmaking, leaderboards, and a competitive in-game economy.
 
-### 🏫 University Digital Management System
+### 🏥 MedLink
 
-A modern university management platform designed to streamline digital operations, student workflows, and administrative processes.
+An award-winning healthcare innovation platform that won a university competition and received patent certification for its real-world impact.
 
-### 🗣️ AI-Powered Text-to-Speech Platform
+### 🛍️ YeneStickers
 
-A web application that converts text into natural-sounding speech with a focus on usability and accessibility.
+A sticker-focused e-commerce platform that enables customers to browse, customize, and order sticker products online.
 
-### 🤖 AI-Driven Applications
+### 🎒 Campus Find
 
-A collection of products integrating modern AI capabilities to improve productivity, automation, and user experience.
+A lost-and-found platform that helps university students quickly reconnect with misplaced belongings.
 
-### 📱 Mobile Applications
+### 🏨 Enterprise Solutions
 
-Cross-platform applications built to provide seamless experiences across Android and iOS devices.
+Developed management systems and business platforms for hotels, universities, and other organizations to streamline operations and improve efficiency.
 
----
+### 🤖 AI-Powered Products
+
+Built intelligent applications and automation solutions that leverage modern AI technologies to solve real-world problems.
 
 ## 💡 What I Enjoy Building
 
