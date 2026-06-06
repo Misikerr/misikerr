@@ -85,17 +85,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 
 ---
 
-## 💡 What I Enjoy Building
-
-* AI-Powered Products
-* Mobile Applications
-* Full-Stack Platforms
-* Startup MVPs
-* Automation Systems
-* Real-Time Applications
-* Developer Tools
-* Digital Experiences
-
 ---
 
 ## 🛠️ Core Capabilities
@@ -144,20 +133,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 </div>
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misikerr&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 💭 Engineering Philosophy
-
-> Great software is not defined by the frameworks used to build it, but by the problems it solves and the value it creates for people.
 
 ---
 
