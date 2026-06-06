@@ -74,30 +74,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 
 ---
 
-## 🎯 Current Focus
-
-* Building AI-powered software products
-* Scaling Ahadu Pool into a production-ready platform
-* Mobile-first application development
-* Startup MVP development
-* Enterprise software solutions
-* AI, automation, and product engineering
-
----
-
-## 🛠️ Core Capabilities
-
-* Product Design & Development
-* Full-Stack Engineering
-* Mobile App Development
-* AI Integration & Prompt Engineering
-* System Architecture
-* Rapid Prototyping
-* API Development
-* Technical Problem Solving
-
----
-
 ## 🌍 Portfolio
 
 🔗 **Website:** https://misikergenene.me
