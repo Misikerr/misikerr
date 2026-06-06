@@ -122,16 +122,6 @@ Built intelligent applications and automation solutions that leverage modern AI 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Misikerr&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Building Products, Solving Problems, and Turning Ideas into Reality
